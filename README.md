@@ -14,6 +14,15 @@ $$ |      $$ |      \$$$$$$  |$$ |\$$$$$$$\ \$$$$$$$\   \$$$$  |$$$$$$$  |
 						 
 ```
 
+* :city_sunset: Leon
+* :school: University of Leon 
+* :school: :airplane: Warsaw University of Technology
+-------------------------------------------------------------------------------------
+* :computer: Java
+* :computer: JavaScript
+* :computer: C++
+* :computer: C
+* :computer: Arduino
     
 ```
 
